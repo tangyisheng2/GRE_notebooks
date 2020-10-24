@@ -1,0 +1,28 @@
+{
+    "created_time": "2020-10-24T12:50:02Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T12:49:09Z",
+            "modified_time": "2020-10-24T13:19:37Z",
+            "name": "并列关系.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T13:34:33Z",
+            "modified_time": "2020-10-24T14:25:19Z",
+            "name": "因果关系.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
